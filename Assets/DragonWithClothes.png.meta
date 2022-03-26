@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 783e2c9d294e83141b3498cfb9e96000
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 716777239245362465
+    second: DragonWithClothes_0
+  - first:
+      213: 5940937202579696931
+    second: DragonWithClothes_1
+  - first:
+      213: -4174052969100206553
+    second: DragonWithClothes_2
+  - first:
+      213: -501847729924882243
+    second: DragonWithClothes_3
+  - first:
+      213: 6611589342979570553
+    second: DragonWithClothes_4
+  - first:
+      213: -4549791271489677557
+    second: DragonWithClothes_5
+  - first:
+      213: -4640722384704031469
+    second: DragonWithClothes_6
+  - first:
+      213: 2582545813094708573
+    second: DragonWithClothes_7
+  - first:
+      213: -7087715528492650042
+    second: DragonWithClothes_8
+  - first:
+      213: 911409352621365090
+    second: DragonWithClothes_9
+  - first:
+      213: 1922772262055752569
+    second: DragonWithClothes_10
+  - first:
+      213: 8287473795870663993
+    second: DragonWithClothes_11
+  - first:
+      213: -9170262950277611613
+    second: DragonWithClothes_12
+  - first:
+      213: -4385674925785418473
+    second: DragonWithClothes_13
+  - first:
+      213: 1248292229684134194
+    second: DragonWithClothes_14
+  - first:
+      213: 8461197107892046305
+    second: DragonWithClothes_15
+  - first:
+      213: -3333747181593276031
+    second: DragonWithClothes_16
+  - first:
+      213: 1852534491499664700
+    second: DragonWithClothes_17
+  - first:
+      213: -1859332023000539730
+    second: DragonWithClothes_18
+  - first:
+      213: 1647609447420385294
+    second: DragonWithClothes_19
+  - first:
+      213: 6020440892413881891
+    second: DragonWithClothes_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DragonWithClothes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 169
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18042727a08c04f49a24acf49d7fe290
+      internalID: 716777239245362465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 118
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a5dc62c5c6f640a2120088c7b0732
+      internalID: 5940937202579696931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 373
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ed1861806df247a7479ee270b9534
+      internalID: -4174052969100206553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 396
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bae989fe7de1344a1aa773fcf31c9c
+      internalID: -501847729924882243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 483
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45560c351731fe04ea91d9901ef1b830
+      internalID: 6611589342979570553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 459
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5467943ab01a097488c038c50ff24c34
+      internalID: -4549791271489677557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 285
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e142f365fc2bc4f8bb6ab74efcb676
+      internalID: -4640722384704031469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 254
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182458695ba77894093f2df22e667bbc
+      internalID: 2582545813094708573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 356
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51492fed5ffd74ea778cb3134527e7
+      internalID: -7087715528492650042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 250
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72db2fccf4d5549bc76c43446419b6
+      internalID: 911409352621365090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 326
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a252dfb35cca95448fd6fbb4a4f9b5f
+      internalID: 1922772262055752569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315121e86efc3142b4c50a9a3f7478b
+      internalID: 8287473795870663993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 209
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05afc3dd5b1c00b45820f7e24bc5e949
+      internalID: -9170262950277611613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 285
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab10a2729181e4ca111df73ceee6e0
+      internalID: -4385674925785418473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 286
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a0bc88a9e5d2049a38466f93f51808
+      internalID: 1248292229684134194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458612a9a3ad654d8d24ff30e1ed5a4
+      internalID: 8461197107892046305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 190
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94491df8a6053a34b9fc7b2221f58c14
+      internalID: -3333747181593276031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 202
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961b1d5d1972ae489f09cb5d9e0c8e2
+      internalID: 1852534491499664700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 197
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e35dcd1a1ccc44a9e5967356f4336
+      internalID: -1859332023000539730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 163
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8815c99fe045344b3d5e49d696764d
+      internalID: 1647609447420385294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonWithClothes_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 183
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd42f0ba4ee824448ee4d59bdeb1111
+      internalID: 6020440892413881891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

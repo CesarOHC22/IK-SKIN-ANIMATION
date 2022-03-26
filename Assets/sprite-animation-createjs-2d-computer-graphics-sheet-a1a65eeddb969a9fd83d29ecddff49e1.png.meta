@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 77c9b13b3ebeac14d97f35977c5a28f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3942874248536773471
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_0
+  - first:
+      213: 3943556260280945071
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_1
+  - first:
+      213: 6867475395543925653
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_2
+  - first:
+      213: -4336826140648846575
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_3
+  - first:
+      213: 5673607852905457205
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_4
+  - first:
+      213: -8456030341639053095
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_5
+  - first:
+      213: -957879330505961256
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_6
+  - first:
+      213: 5440109383372162125
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_7
+  - first:
+      213: -1056773286587833054
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_8
+  - first:
+      213: -3719307952633314710
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_9
+  - first:
+      213: -7735161439143657050
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_10
+  - first:
+      213: -8883881313873325584
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_11
+  - first:
+      213: -921221983312922745
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_12
+  - first:
+      213: 4638530055456462145
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_13
+  - first:
+      213: -5923979572218283917
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_14
+  - first:
+      213: 4020390479300107384
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_15
+  - first:
+      213: -8700243403912912068
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_16
+  - first:
+      213: -6575298714464968877
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_17
+  - first:
+      213: -6398749640239603710
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_18
+  - first:
+      213: -8239065631127927593
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_19
+  - first:
+      213: 1837369418914543023
+    second: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 587
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd397d146558434d9e1a184c192fd6d
+      internalID: 3942874248536773471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 587
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45bff8de699be45b3330cc1a858b5f
+      internalID: 3943556260280945071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 583
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faabc05465ffcd4faf9c9c020c6de46
+      internalID: 6867475395543925653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 583
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1412bd56afa24baab8b5fbf25328a
+      internalID: -4336826140648846575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 580
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4e56b434beb14d9617527efc7ec6c
+      internalID: 5673607852905457205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 580
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74d77731e3793409773b8782b8dbee
+      internalID: -8456030341639053095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 580
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8027bbaacdd114ea64ec95f8ab73eb
+      internalID: -957879330505961256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 286
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa926f8df8c79c842a1b0401f3258d12
+      internalID: 5440109383372162125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295e7890057d054ca65fde4494a29f8
+      internalID: -1056773286587833054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655daea9c8954794b9c18f31869d1628
+      internalID: -3719307952633314710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 299
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43272e83a401cc445b55d46b2a86f897
+      internalID: -7735161439143657050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 297
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54adcf77520e5fe4e84ea614b1b2b51e
+      internalID: -8883881313873325584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 297
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33896962cb9bea44f85ccc0a5b5f308f
+      internalID: -921221983312922745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 287
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b491c358d505747b82f4526d5b0559
+      internalID: 4638530055456462145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 144
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59d1c8bef80c541bc334e48a8d7ede
+      internalID: -5923979572218283917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 144
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f50f4cfd242c694283c29672f61c104
+      internalID: 4020390479300107384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95d5704ff145140aaead70d8414f4b
+      internalID: -8700243403912912068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 7
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7315711b486bd42b60f2f818acdef2
+      internalID: -6575298714464968877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ea46b0189d974db4f186c77dab5f5
+      internalID: -6398749640239603710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_19
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 5
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76781df3b986b98409317fceb1dda105
+      internalID: -8239065631127927593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-createjs-2d-computer-graphics-sheet-a1a65eeddb969a9fd83d29ecddff49e1_20
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 121
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c23d78edb1fd44b857d9a21aae220
+      internalID: 1837369418914543023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
